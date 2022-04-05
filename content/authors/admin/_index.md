@@ -10,11 +10,11 @@ role: Social Psychology PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of South Florida
+  url: https://www.usf.edu/arts-sciences/departments/psychology/index.aspx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include gender scripts and how they relate to romantic relationship behaviors and prejudice towards gender and sexual minorities.
 
 # Interests to show in About widget
 interests:
