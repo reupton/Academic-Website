@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Social Psychology
-    institution: Stanford University
+    institution: University of South Florida
     year: 2021 - Present
   - course: BS in Psychology
     institution: California Polytechnic State University
