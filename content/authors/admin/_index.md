@@ -72,8 +72,4 @@ highlight_name: true
 
 Becky Upton is a social psychology PhD student at the University of South Florida. She works with Joseph Vandello in the Gender and Interpersonal Dynamics Lab. Her reserach interests include gender scripts and how they relate to romantic relationships and prejudice. A specific area she is interested in is how gender scripts may influence perceptions of abusive behaviors in romantic relationships. Currently, she works as both a graduate student researcher and graduate teaching assistant at USF.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
