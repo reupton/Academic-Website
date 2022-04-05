@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rebecca Upton
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Social Psychology PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
