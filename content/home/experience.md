@@ -35,20 +35,7 @@ experience:
         * Graded assignments
         * Prepared and delivered weekly lectures
         * Held office hours
-
-  - title: Social Psychology Course Assistant
-    company: University of South Florida
-    company_url: ''
-    company_logo: org-gc
-    location: Tampa, Fl
-    date_start: '2022-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities included:
         
-        * Grade weekly assignments
-        * Answer student questions     
-
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
