@@ -28,13 +28,13 @@ experience:
     company_logo: org-gc
     location: Tampa, Fl
     date_start: '2021-08-01'
-    date_end: '2021-12-1'
+    date_end: ''
     description: |2-
-        Responsibilities included:
+        Responsibilities include:
         
-        * Graded assignments
-        * Prepared and delivered weekly lectures
-        * Held office hours
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
